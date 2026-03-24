@@ -1,0 +1,65 @@
+{
+  "analysis_metadata": {
+    "search_queries": [
+      "bitcoin institutional adoption",
+      "reinsurance market trends",
+      "Stone Ridge",
+      "MicroStrategy bitcoin",
+      "bitcoin ETF",
+      "Franklin Templeton XRP"
+    ],
+    "date_range": {
+      "start_date": "2026-03-19",
+      "end_date": "2026-03-24",
+      "analysis_date": "2026-03-24"
+    },
+    "posts_analyzed": {
+      "total": 31,
+      "bitcoin_posts": 30,
+      "reinsurance_posts": 1
+    },
+    "top_investment_themes": [
+      {
+        "theme": "Corporate Bitcoin Treasury Strategies",
+        "description": "Major corporations like MicroStrategy and Metaplanet making large-scale Bitcoin acquisitions for treasury purposes",
+        "key_players": ["MicroStrategy", "Metaplanet", "European companies"],
+        "significance": "Institutional validation and adoption"
+      },
+      {
+        "theme": "Bitcoin ETF Market Expansion",
+        "description": "Growing institutional access through ETF products and regulatory approvals",
+        "key_players": ["Morgan Stanley", "SEC"],
+        "significance": "Mainstream institutional investment vehicle"
+      },
+      {
+        "theme": "Cross-Asset Institutional Recognition",
+        "description": "Bitcoin positioned alongside other major cryptocurrencies for institutional adoption",
+        "key_players": ["Franklin Templeton"],
+        "significance": "Multi-asset institutional crypto strategy"
+      },
+      {
+        "theme": "Bitcoin as Reserve Currency Alternative",
+        "description": "Narrative of Bitcoin potentially serving as alternative to traditional reserve currencies",
+        "key_players": ["Various institutional analysts"],
+        "significance": "Macro-economic positioning and adoption"
+      },
+      {
+        "theme": "Technology-Driven Reinsurance Transformation",
+        "description": "Technology transitioning from optional to core strategic driver in reinsurance market",
+        "key_players": ["Reinsurance industry"],
+        "significance": "Market evolution and efficiency improvements"
+      }
+    ],
+    "sentiment_overview": {
+      "bitcoin_sentiment": "95%+ Positive",
+      "reinsurance_sentiment": "Neutral/Informative",
+      "overall_engagement": {
+        "total_likes": 68,
+        "total_retweets": 7,
+        "average_engagement_per_post": 2.4
+      }
+    },
+    "data_source": "X/Twitter API",
+    "analysis_tool": "AI Investment Research Assistant"
+  }
+}
